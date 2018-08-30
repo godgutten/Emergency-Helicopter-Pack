@@ -4,4 +4,12 @@ Installation:
 
 I didn't make the skins, I just converted the pack to work with FiveM
 
+Creds to the pack itself is Van_Zandt
+
+Download:
+https://www.gta5-mods.com/users/Van_Zandt
+
+Creds to godgutten for converting/image resizing. 
+
+FiveM link:
 
