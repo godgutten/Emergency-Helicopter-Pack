@@ -26,5 +26,5 @@ _FiveM link:_
 
 _____________________________
 
-
+I fixed the pack for my own fivem server and I thought I could share that so that others don't have to fix everything I needed to fix
 
