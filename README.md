@@ -1,4 +1,4 @@
-Please join my discord server here
+**Please join my discord server** [here](https://discord.gg/Y29AZNQ)
 
 
 
